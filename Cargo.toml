@@ -1,0 +1,9 @@
+[package]
+name = "hairball"
+version = "0.1.1"
+authors = ["Connor <cmccutch@starbucks.com>"]
+
+[dependencies]
+ring = "*"
+rpassword = "*"
+argparse = "*"
